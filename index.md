@@ -27,7 +27,7 @@ The discipline of computer science including [problem solving](https://en.wikipe
 #### Instructor
 
 Instructor
-: Dr. Lane Schwartz
+: Lane Schwartz, PhD
 
 Email
 : [lane.schwartz@alaska.edu](mailto:lane.schwartz@alaska.edu)

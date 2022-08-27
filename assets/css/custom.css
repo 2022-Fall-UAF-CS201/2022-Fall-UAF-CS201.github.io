@@ -217,12 +217,12 @@ table th[class*="col-"] {
 }
 
 
-.list-group {
+ul.list-group {
   padding-left: 0;
   margin-bottom: 20px;
 }
 
-.list-group-item {
+ul.list-group-item {
   position: relative;
   display: block;
   padding: 10px 15px;
@@ -231,31 +231,31 @@ table th[class*="col-"] {
   border: 1px solid #dddddd;
 }
 
-.list-group-item:first-child {
+ul.list-group-item:first-child {
   border-top-right-radius: 4px;
   border-top-left-radius: 4px;
 }
 
-.list-group-item:last-child {
+ul.list-group-item:last-child {
   margin-bottom: 0;
   border-bottom-right-radius: 4px;
   border-bottom-left-radius: 4px;
 }
 
-.list-group-item > .badge {
+ul.list-group-item > .badge {
   float: right;
 }
 
-.list-group-item > .badge + .badge {
+ul.list-group-item > .badge + .badge {
   margin-right: 5px;
 }
 
-.list-group-item-heading {
+ul.list-group-item-heading {
   margin-top: 0;
   margin-bottom: 5px;
 }
 
-.list-group-item-text {
+ul.list-group-item-text {
   margin-bottom: 0;
   line-height: 1.3;
 }
