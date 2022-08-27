@@ -1,0 +1,11 @@
+-
+  week: "1"
+  date: "2022-08-29 23:59"
+  title: "Syllabus"
+  reading:
+    -
+     title: "Syllabus"
+     url: ..
+     length:
+       value: 6
+       unit: "pages"
