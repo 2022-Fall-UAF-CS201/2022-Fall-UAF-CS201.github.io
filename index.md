@@ -38,7 +38,7 @@ Dr. Lane Schwartz
   <tbody>
     <tr>
       <th scope="row">Email</th>
-      <td><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</td>
+      <td><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</a></td>
     </tr>
     <tr>
       <th scope="row">Telephone</th>
