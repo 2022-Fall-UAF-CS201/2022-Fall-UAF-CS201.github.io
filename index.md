@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*[I/O]: Input and Output
+*[I/O]: [input and output](https://en.wikipedia.org/wiki/Input/output#Higher-level_implementation)
 
 ### Course Description
 
