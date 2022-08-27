@@ -33,3 +33,27 @@ Dr. Lane Schwartz
 
 
 
+#### Demo
+<table>
+  <caption>Dates and amounts</caption>
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">First 6 weeks</th>
+      <td>£109.80 per week</td>
+    </tr>
+    <tr>
+      <th scope="row">Next 33 weeks</th>
+      <td>£109.80 per week</td>
+    </tr>
+    <tr>
+      <th scope="row">Total estimated pay</th>
+      <td>£4,282.20</td>
+    </tr>
+  </tbody>
+</table>
