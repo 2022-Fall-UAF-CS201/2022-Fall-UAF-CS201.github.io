@@ -4,35 +4,37 @@ layout: default
 
 {% assign allpagetotal = 0 %}
 {% assign allminutestotal = 0 %}
+{% assign zero_based_week = 0 %}
 
-<!--<p>&#x24d8;=recommended supplemental</p>-->
+{% capture start_of_semester %}
+{{ site.data.dates.start | date: "%s" }}
+{% endcapture %}
+
+<!-- {% increment current_week %} -->
+<!-- {% assign seconds_in_day = 86400 %} -->
+
+
 
 <h3 style="text-align: center">Schedule</h3>
 
 <table class="table table-striped"> 
   <tbody>
     <tr>
-      <th class="col-xs-1" style="text-align: center">Module</th>
-      <th class="col-xs-1" style="text-align: center">Week</th>
-      <!--<th class="col-xs-1">Topic</th>-->
-      <th class="col-xs-5">Readings, Videos, Quizzes, Assignments, Logs, & Exams</th>
-      <th class="col-xs-3">Complete prior to</th>
-      <th class="col-xs-2">Totals (approximate)</th>
+    <th style="text-align: center">Week</th>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Slides</th>
+    <th style="text-align: center">Content</th>
+      <th style="text-align: left">Workload</th>
     </tr>
     {% for lecture in site.data.schedule %}
-        {% assign pagetotal = 0 %}
+          {% assign pagetotal = 0 %}
         {% assign optionalpagetotal = 0 %}
         {% assign minutestotal = 0 %}
         {% assign optionalminutestotal = 0 %}
     <tr>
-      <td style="text-align: center">{% if lecture.module %}Module {{ lecture.module }}{% endif %}</td>
-      <td style="text-align: center">{% if lecture.week %}Week {{ lecture.week }}{% endif %}</td>
-      <!--
-      <td>
-        {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.title }}</a>
-        {% elsif lecture.title %}{{ lecture.title }}{% endif %}
-      </td>
-      -->
+      <td style="text-align: center">{% if lecture.start_new_week %}Week {% increment current_week %}{% endif %}</td>
+      <td style="text-align: center">{{ current_week | minus: 2 | times: 7 | plus: lecture.day_of_week |  times: 24 | times: 60 | times: 60 | plus: start_of_semester | date: "%A<br/>%F" }}</td>
+      <td style="text-align: center">{% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.topic }}</a>{% endif %}</td>
       <td>
         {% if lecture.reading %}
           <ul>
@@ -75,9 +77,7 @@ layout: default
           </ul>
         {% endif %}
       </td>
-      <td>Due {{ lecture.date | date: " %H:%M" }}<br/>{{ lecture.date | date: "%a %b %d" }}</td>
       <td>
-          <!--<ul class="fa-ul">-->
 			  {% if pagetotal != 0 %}
 			      <p>📖 {{ pagetotal }} pages</p>
 			  {% endif %}
@@ -90,7 +90,6 @@ layout: default
 			  {% if optionalminutestotal != 0 %}
 			      <p>ℹ️ 📺 {{ optionalminutestotal }} minutes</p>
 			  {% endif %}
-          <!--</ul>      -->
       </td>
     </tr>
     {% endfor %}

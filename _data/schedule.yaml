@@ -1,7 +1,7 @@
 -
-  week: "1"
-  date: "2022-08-29 23:59"
+  start_new_week: true   # Week 1
   title: "Syllabus"
+  day_of_week: 0
   reading:
     -
      title: "Syllabus"
@@ -9,3 +9,156 @@
      length:
        value: 6
        unit: "pages"
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 2
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 3
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 4
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 5
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 6
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 7
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 8
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 9
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 10
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 11
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 12
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 13
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 14
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 15
+  title:
+  day_of_week: 0
+-
+  title: ""
+  day_of_week: 2
+-
+  title: ""
+  day_of_week: 4
+-
+  start_new_week: true   # Week 16
+  title:
+  day_of_week: 2
+  reading:
+    -
+     title: "Final Exam"
