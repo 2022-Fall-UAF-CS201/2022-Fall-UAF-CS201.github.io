@@ -26,11 +26,15 @@ The discipline of computer science including [problem solving](https://en.wikipe
 
 #### Instructor
 
-Dr. Lane Schwartz
+Instructor
+: Dr. Lane Schwartz
+
 Email
 : [lane.schwartz@alaska.edu](mailto:lane.schwartz@alaska.edu)
+
 Phone
 : [+1-907-474-6104](tel:+1-907-474-6104)
+
 Room
 : [Duckering](https://uaf.edu/campusmap/for-visitors/buildings/duckering.php) room 543
 
