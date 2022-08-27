@@ -2,12 +2,31 @@
 layout: default
 ---
 
-## Course Overview
+*[I/O]: Input and Output
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Course Description
+
+The discipline of computer science including problem solving, algorithm development, good programming style, control flow, I/O and elementary data structures. Concepts implemented with extensive programming experience in C++, and a group programming project.
+
+
+#### Prerequisites
+
+* One year high school level programming or [CS F103](https://catalog.uaf.edu/search/?P=CS%20F103)
+* Mathematics placement at the F200-level
+
+
+#### Time and place
+
+* [Duckering](https://uaf.edu/campusmap/for-visitors/buildings/duckering.php) room 530
+* 9:15-10:15 AM
+
 
 #### Instructor
 
-Etiam vitae nunc nisi. Proin malesuada augue massa, quis finibus diam vehicula in. Integer quis justo sed massa porttitor ultrices. Vestibulum sodales fermentum leo vitae posuere. Phasellus convallis id metus id gravida. Vivamus euismod justo magna, eget tincidunt massa sagittis non. Cras aliquet dictum lacus, at blandit neque facilisis et. Proin eu cursus leo, facilisis condimentum enim.
+Dr. Lane Schwartz
+* Email: [lane.schwartz@alaska.edu](mailto:lane.schwartz@alaska.edu)
+* Phone: [+1 907-474-6104](tel:+1-907-474-6104)
+* Room: [Duckering](https://uaf.edu/campusmap/for-visitors/buildings/duckering.php) room 543
+
 
 
