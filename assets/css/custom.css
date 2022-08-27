@@ -261,10 +261,6 @@ table th[class*="col-"] {
 }
 
 
-dl {
-  border: 1px ;
-  padding: 0.5em;
-}
 dt {
   float: left;
   clear: left;
