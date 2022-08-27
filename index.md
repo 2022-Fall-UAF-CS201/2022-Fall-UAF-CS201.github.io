@@ -45,8 +45,8 @@ Room
 #### Demo
 <dl class="dl-horizontal">
 
-<dt>Email</dt>
-<dd><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</a></dd>
+<dt style='display:list-item;'>Email</dt>
+<dd style='display:list-item;'><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</a></dd>
 
 <dt>Telephone</dt>
 <dd><a href="tel:+1-907-474-6104">+1-907-474-6104</a></dd>
