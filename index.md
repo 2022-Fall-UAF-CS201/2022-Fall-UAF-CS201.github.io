@@ -50,4 +50,4 @@ Room
 <dt>Location</dt>
 <dd><a href="https://uaf.edu/campusmap/for-visitors/buildings/duckering.php">Duckering</a> room 543</dd>
 
-</table>
+</dl>
