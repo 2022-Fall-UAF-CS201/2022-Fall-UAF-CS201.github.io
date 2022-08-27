@@ -269,8 +269,10 @@ dt {
 }
 dt::after {
   content: ":";
+  margin-bottom: 0;
 }
 dd {
   margin: 0 0 0 110px;
   padding: 0 0 0 0;
+  margin-bottom: 0;
 }
