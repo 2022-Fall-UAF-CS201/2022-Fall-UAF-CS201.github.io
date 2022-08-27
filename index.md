@@ -35,25 +35,18 @@ Dr. Lane Schwartz
 
 #### Demo
 <table>
-  <caption>Dates and amounts</caption>
-  <thead>
-    <tr>
-      <th scope="col">Date</th>
-      <th scope="col">Amount</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <th scope="row">First 6 weeks</th>
-      <td>£109.80 per week</td>
+      <th scope="row">Email</th>
+      <td><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</td>
     </tr>
     <tr>
-      <th scope="row">Next 33 weeks</th>
-      <td>£109.80 per week</td>
+      <th scope="row">Telephone</th>
+      <td><a href="tel:+1-907-474-6104">+1-907-474-6104</a></td>
     </tr>
     <tr>
-      <th scope="row">Total estimated pay</th>
-      <td>£4,282.20</td>
+      <th scope="row">Location</th>
+      <td><a href="https://uaf.edu/campusmap/for-visitors/buildings/duckering.php">Duckering</a> room 543</td>
     </tr>
   </tbody>
 </table>
