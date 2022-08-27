@@ -262,7 +262,7 @@ table th[class*="col-"] {
 
 
 dl {
-  border: 3px double #ccc;
+  border: 1px ;
   padding: 0.5em;
 }
 dt {
@@ -275,6 +275,6 @@ dt::after {
   content: ":";
 }
 dd {
-  margin: 0 0 0 0px;
-  padding: 0 0 0.5em 0;
+  margin: 0 0 0 110px;
+  padding: 0 0 0 0;
 }
