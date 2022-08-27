@@ -36,20 +36,18 @@ Room
 
 
 
+
+
 #### Demo
-<table>
-  <tbody>
-    <tr>
-      <th scope="row">Email</th>
-      <td><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</a></td>
-    </tr>
-    <tr>
-      <th scope="row">Telephone</th>
-      <td><a href="tel:+1-907-474-6104">+1-907-474-6104</a></td>
-    </tr>
-    <tr>
-      <th scope="row">Location</th>
-      <td><a href="https://uaf.edu/campusmap/for-visitors/buildings/duckering.php">Duckering</a> room 543</td>
-    </tr>
-  </tbody>
+<dl class="dl-horizontal">
+
+<dt>Email</dt>
+<dd><a href="mailto:lane.schwartz@alaska.edu">lane.schwartz@alaska.edu</a></dd>
+
+<dt>Telephone</dt>
+<dd><a href="tel:+1-907-474-6104">+1-907-474-6104</a></dd>
+
+<dt>Location</dt>
+<dd><a href="https://uaf.edu/campusmap/for-visitors/buildings/duckering.php">Duckering</a> room 543</dd>
+
 </table>
