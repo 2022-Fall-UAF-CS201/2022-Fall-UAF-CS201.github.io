@@ -97,4 +97,4 @@ layout: default
   </tbody>
 </table>
 
-<p>This course entails approximately {{ allpagetotal }} total pages of required readings and {{ allminutestotal | divided_by: 60 }} total hours of videos for the semester.</p>
+<!--<p>This course entails approximately {{ allpagetotal }} total pages of required readings and {{ allminutestotal | divided_by: 60 }} total hours of videos for the semester.</p>-->
