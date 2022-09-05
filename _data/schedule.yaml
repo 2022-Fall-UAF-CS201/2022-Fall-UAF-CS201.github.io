@@ -179,11 +179,33 @@
 -
   day_of_week: 2
 #  slides: ../assets/pdf/cs201-0203-flow-of-control-3.pdf
+  reading:
+    -
+     title: "TLCL §6: Redirection"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "54-67"
+     length:
+       value: 13
+       unit:  "pages"
 -
 #  topic: "Functions"
   day_of_week: 4
 #  slides: ../assets/pdf/cs201-0301-functions-1.pdf
-#  reading:
+  reading:
+    -
+     title: "TLCL §7: Seeing the world..."
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "68-80"
+     length:
+       value: 12
+       unit:  "pages"
+    -
+     title: "TLCL §8: Advanced Keyboard Tricks"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "81-89"
+     length:
+       value: 12
+       unit:  "pages"
 #    -
 #     title: "Chapter 4.5: Functions"
 #     pages: "113-117"
@@ -211,10 +233,26 @@
 #  topic: ""
   day_of_week: 2
 #  slides: ../assets/pdf/cs201-0303-functions-3.pdf
+  reading:
+    -
+     title: "TLCL §9: Permissions"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "90-109"
+     length:
+       value: 19
+       unit:  "pages"
 -
 #  topic: ""
   day_of_week: 4
 #  slides: ../assets/pdf/cs201-0304-functions-4.pdf
+  reading:
+    -
+     title: "TLCL §10: Processes"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "110-124"
+     length:
+       value: 15
+       unit:  "pages"
 -
 ###################################
   start_new_week: true   # Week 5
@@ -236,9 +274,25 @@
 #  topic: ""
   day_of_week: 2
 #  slides: ../assets/pdf/cs201-0402-type_2.pdf
+  reading:
+    -
+     title: "TLCL §11: The Environment"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "128-140"
+     length:
+       value: 12
+       unit:  "pages"
 -
 #  topic: "Vectors"
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §13: Customizing the Prompt"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "128-140"
+     length:
+       value: 12
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-0501-vector_1.pdf
 -
 ###################################
