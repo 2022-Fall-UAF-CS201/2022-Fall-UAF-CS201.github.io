@@ -156,7 +156,8 @@
        value: 16
        unit:  "pages"
     -
-     title: "HW0 due"
+     title: "HW00 due"
+     url:   "https://classroom.github.com/classrooms/112222151-2022-fall-uaf-cs201/assignments/hw00"
 #     title: "Chapter 4.4: Statements"
 #     pages: "100-113"
 #     length:
