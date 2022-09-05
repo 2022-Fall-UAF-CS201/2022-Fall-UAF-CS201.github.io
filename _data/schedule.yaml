@@ -200,6 +200,19 @@
      length:
        value: 13
        unit:  "pages"
+    -
+     title: "Video Lectures covering standard input, standard output, and standard error streams, as well as redirection"
+     url:   "https://www.youtube.com/playlist?list=PLydysiDoFy5U5azdURmcOqNd26c9KKkXd"
+     length:
+       value: 59
+       unit:  "minutes"
+    -
+     title: "Video Lectures covering cat, uniq, wc, grep, head, and tail"
+     url:   "https://www.youtube.com/playlist?list=PLydysiDoFy5X05aMvr7cE3qCOV7lT8gcm"
+     length:
+       value: 17
+       unit:  "minutes"
+       
 #    -
 #     title: "Chapter 4.5: Functions"
 #     pages: "113-117"
@@ -235,6 +248,12 @@
      length:
        value: 12
        unit:  "pages"
+    -
+      title: "Video lectures covering expansions, substitutions, escaping, and quoting"
+      url:   "https://www.youtube.com/playlist?list=PLydysiDoFy5XconOvRwpEX-9zQj-dhY2Y"
+      length:
+        value: 69
+        unit:  "minutes"
 -
 #  topic: ""
   day_of_week: 4
@@ -328,6 +347,12 @@
      length:
        value: 21
        unit:  "pages"
+    -
+     title: "Regular expressions and grep"
+     url:   "https://www.youtube.com/playlist?list=PLydysiDoFy5VwK8RajTwNzW8v4edsi8hL"
+     length:
+       value: 59
+       unit:  "minutes"
 #  slides: ../assets/pdf/cs201-0602-string_2.pdf
 -
 ###################################
@@ -355,6 +380,12 @@
      length:
        value: 41
        unit:  "pages"
+    -
+     title: "Determining the most frequent words in a corpus using basic shell commands"
+     url:   "https://www.youtube.com/playlist?list=PLydysiDoFy5XXg3ht-cPoVjQqzcUCJOwY"
+     length:
+       value: 31
+       unit:  "minutes"
 #  slides: ../assets/pdf/cs201-0702-search_2.pdf
 -
 #  topic: ""
