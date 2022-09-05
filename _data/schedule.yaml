@@ -96,6 +96,7 @@
 -
   day_of_week: 4
 #  slides: ../assets/pdf/cs201-0201-flow-of-control-1.pdf
+  topic: "Bash"
   reading:
     -
      title: "TLCL §1: What is the shell?"
@@ -181,11 +182,11 @@
 #  slides: ../assets/pdf/cs201-0203-flow-of-control-3.pdf
   reading:
     -
-     title: "TLCL §6: Redirection"
+     title: "TLCL §8: Advanced Keyboard Tricks"
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "54-67"
+     pages: "81-89"
      length:
-       value: 13
+       value: 12
        unit:  "pages"
 -
 #  topic: "Functions"
@@ -193,18 +194,11 @@
 #  slides: ../assets/pdf/cs201-0301-functions-1.pdf
   reading:
     -
-     title: "TLCL §7: Seeing the world..."
+     title: "TLCL §6: Redirection"
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "68-80"
+     pages: "54-67"
      length:
-       value: 12
-       unit:  "pages"
-    -
-     title: "TLCL §8: Advanced Keyboard Tricks"
-     url:   "https://linuxcommand.org/tlcl.php"
-     pages: "81-89"
-     length:
-       value: 12
+       value: 13
        unit:  "pages"
 #    -
 #     title: "Chapter 4.5: Functions"
@@ -235,11 +229,11 @@
 #  slides: ../assets/pdf/cs201-0303-functions-3.pdf
   reading:
     -
-     title: "TLCL §9: Permissions"
+     title: "TLCL §7: Seeing the world..."
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "90-109"
+     pages: "68-80"
      length:
-       value: 19
+       value: 12
        unit:  "pages"
 -
 #  topic: ""
@@ -247,11 +241,11 @@
 #  slides: ../assets/pdf/cs201-0304-functions-4.pdf
   reading:
     -
-     title: "TLCL §10: Processes"
+     title: "TLCL §9: Permissions"
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "110-124"
+     pages: "90-109"
      length:
-       value: 15
+       value: 19
        unit:  "pages"
 -
 ###################################
@@ -276,18 +270,18 @@
 #  slides: ../assets/pdf/cs201-0402-type_2.pdf
   reading:
     -
-     title: "TLCL §11: The Environment"
+     title: "TLCL §10: Processes"
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "128-140"
+     pages: "110-124"
      length:
-       value: 12
+       value: 15
        unit:  "pages"
 -
 #  topic: "Vectors"
   day_of_week: 4
   reading:
     -
-     title: "TLCL §13: Customizing the Prompt"
+     title: "TLCL §11: The Environment"
      url:   "https://linuxcommand.org/tlcl.php"
      pages: "128-140"
      length:
@@ -315,11 +309,11 @@
 #  slides: ../assets/pdf/cs201-0601-string_1.pdf
   reading:
     -
-     title: "TLCL §19: Regular Expressions"
+     title: "TLCL §13: Customizing the Prompt"
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "251-272"
+     pages: "128-140"
      length:
-       value: 21
+       value: 12
        unit:  "pages"
 #    -
 #     title: "HW3 due"
@@ -328,11 +322,11 @@
   day_of_week: 4
   reading:
     -
-     title: "TLCL §20: Text Processing"
+     title: "TLCL §19: Regular Expressions"
      url:   "https://linuxcommand.org/tlcl.php"
-     pages: "273-314"
+     pages: "251-272"
      length:
-       value: 41
+       value: 21
        unit:  "pages"
 #  slides: ../assets/pdf/cs201-0602-string_2.pdf
 -
@@ -345,12 +339,27 @@
 -
 #  topic: ""
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §20: Text Processing"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "273-314"
+     length:
+       value: 41
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-0702-search_2.pdf
 -
 #  topic: ""
   day_of_week: 4
 #  slides: ../assets/pdf/cs201-0703-search_3.pdf
-#  reading:
+  reading:
+    -
+     title: "TLCL §24: Writing Your First Shell Script"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "364-370"
+     length:
+       value: 6
+       unit:  "pages"
 #    -
 #     title: "HW4 due"
 -
@@ -362,9 +371,25 @@
 -
 #  topic: ""
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §25: Starting a Project"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "371-382"
+     length:
+       value: 11
+       unit:  "pages"
 -
 #  topic: "Midterm Exam"
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §26: Top-Down Design"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "383-392"
+     length:
+       value: 9
+       unit:  "pages"
 -
 ###################################
   start_new_week: true   # Week 9
@@ -375,10 +400,26 @@
 -
 #  topic: ""
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §27: Flow Control branching with if"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "393-409"
+     length:
+       value: 16
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-0802-numbers_2.pdf
 -
 #  topic: "Structured data"
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §28: Reading Keyboard Input"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "410-422"
+     length:
+       value: 12
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-0901-structured-data-1.pdf
 -
 ###################################
@@ -390,10 +431,26 @@
 -
 #  topic: ""
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §29: Flow Control looping with while"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "423-429"
+     length:
+       value: 6
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-0903-structured-data-3.pdf
 -
 #  topic: "Standard library"
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §30: Troubleshooting"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "430-443"
+     length:
+       value: 13
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-1001-stdlib-1.pdf
 -
 ###################################
@@ -408,10 +465,26 @@
 -
 #  topic: ""
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §31: Flow Control branching with case"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "444-450"
+     length:
+       value: 6
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-1003-stdlib-3.pdf
 -
 #  topic: ""
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §32: Positional Parameters"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "451-465"
+     length:
+       value: 14
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-1004-stdlib-4.pdf
 -
 ###################################
@@ -423,6 +496,14 @@
 -
 #  topic: ""
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §33: Flow Control: Looping with for"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "451-465"
+     length:
+       value: 14
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-1102-files-2.pdf
 #  reading:
 #    -
@@ -440,8 +521,24 @@
 #  slides: ../assets/pdf/cs201-1202-internals-2.pdf
 -
   day_of_week: 2
+  reading:
+    -
+     title: "TLCL §34: Strings and Numbers"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "473-494"
+     length:
+       value: 21
+       unit:  "pages"
 -
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §35: Arrays"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "495-504"
+     length:
+       value: 9
+       unit:  "pages"
 -
 ###################################
   start_new_week: true   # Week 14
@@ -453,7 +550,14 @@
 #  topic: ""
   day_of_week: 2
 #  slides: ../assets/pdf/cs201-1204-internals-4.pdf
-#  reading:
+  reading:
+    -
+     title: "TLCL §36: Exotica"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "505-518"
+     length:
+       value: 13
+       unit:  "pages"
 #    -
 #     title: "HW7 due"
 -
