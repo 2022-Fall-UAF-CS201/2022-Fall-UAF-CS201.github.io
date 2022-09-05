@@ -336,6 +336,14 @@
 #  topic: "Searching & Sorting"
   day_of_week: 0
 #  slides: ../assets/pdf/cs201-0701-search_1.pdf
+  reading:
+    -
+     title: "PPP C++ §7: Completing a Program"
+     url:   "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/"
+     pages: "221-251"
+     length:
+       value: 30
+       unit: "pages"
 -
 #  topic: ""
   day_of_week: 2
