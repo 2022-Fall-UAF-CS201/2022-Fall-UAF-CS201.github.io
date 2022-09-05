@@ -313,12 +313,27 @@
 #  topic: "Strings"
   day_of_week: 2
 #  slides: ../assets/pdf/cs201-0601-string_1.pdf
-#  reading:
+  reading:
+    -
+     title: "TLCL §19: Regular Expressions"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "251-272"
+     length:
+       value: 21
+       unit:  "pages"
 #    -
 #     title: "HW3 due"
 -
 #  topic: ""
   day_of_week: 4
+  reading:
+    -
+     title: "TLCL §20: Text Processing"
+     url:   "https://linuxcommand.org/tlcl.php"
+     pages: "273-314"
+     length:
+       value: 41
+       unit:  "pages"
 #  slides: ../assets/pdf/cs201-0602-string_2.pdf
 -
 ###################################
