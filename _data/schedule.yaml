@@ -172,6 +172,9 @@
 #  slides: ../assets/pdf/cs201-0202-flow-of-control-2.pdf
   reading:
     -
+     title: "Recording of class session"
+     url:   "https://alaska.zoom.us/rec/share/xH0VKKMwrPtw2qaktfbyDuHJCilp_xChvIeqUdMgtwYUXwchIzeBUFtfHzf2XKLc.-0AQy1woGVcV0nAr"
+    -
      title: "PPP C++ §3: Objects, Types, and Values"
      url:   "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/"
      pages: "59-83"
@@ -194,6 +197,9 @@
   day_of_week: 4
 #  slides: ../assets/pdf/cs201-0301-functions-1.pdf
   reading:
+    -
+     title: "Recording of class session"
+     url:   "https://alaska.zoom.us/rec/share/VYaYM7jVzeZRFN6zYSzralpy_kW0RFdfQrvZK0OCQghLUSUR3waeyqz67FGLkAEL.SI-2-H3hMz7KSO4a"
     -
      title: "TLCL §6: Redirection"
      url:   "https://linuxcommand.org/tlcl.php"
@@ -231,12 +237,38 @@
 #  slides: ../assets/pdf/cs201-0302-functions-2.pdf
   reading:
     -
+     title: "Recording of class session"
+     url:   "https://alaska.zoom.us/rec/share/TNj8K0QAK1mYV0QkkhM085lwb33IlRAQZBh4KpW1CeRmz0xwUQ3sC0Z92V1WxI1b.FpLdDOvnRYcxhlEB"
+    -
      title: "PPP C++ §4: Computation"
      url:   "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/"
      pages: "89-125"
      length:
        value: 37
        unit: "pages"
+     outcomes:
+       -
+         section:
+           number: 4.3
+           title:  "Expressions"
+         outcomes:
+           - "Define and identify examples of `lvalue` and `rvalue` in the context of C++ expressions"
+           - "Describe utility of constexrp and when it can be used; provide examples of valid constexpr expressions"
+       -
+         section:
+           number: 4.4
+           title:  "Statements"
+         outcomes:
+           - "Recognize and provide examples of `if` statements, including those that utilize `else if` and `else`"
+           - "Recognize and provide examples of `switch` statements, including stating what kinds of values may be used in `switch` and `case`"
+           - "Recognize and provide examples of `while` loops"
+           - "Recognize and provide example of an empty block"
+           - "Recognize and provide examples of traditional C++ `for` loop"
+           - "Recognize and provide examples of for-each style `for` loop"
+           - "Recognize and provide examples of simple C++ functions; provide convincing rationale regarding purpose of functions"
+           - "Recognize and describe `vector` as a foundational data type in modern C++"
+           - "Recognize and write code constructing a vector from data using modern `{}`-style initialization"
+           - "Recognize and write code that appends elements to a vector using `push_back`"
 -
 #  topic: ""
   day_of_week: 2
