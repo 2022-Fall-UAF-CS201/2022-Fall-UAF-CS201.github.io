@@ -278,6 +278,9 @@
 #  slides: ../assets/pdf/cs201-0303-functions-3.pdf
   reading:
     -
+     title: "Code from class"
+     url:   "assets/code/for_vector.cpp"
+    -
      title: "TLCL §7: Seeing the world..."
      url:   "https://linuxcommand.org/tlcl.php"
      pages: "68-80"
