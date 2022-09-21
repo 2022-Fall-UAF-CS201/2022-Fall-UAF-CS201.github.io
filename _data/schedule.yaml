@@ -240,6 +240,9 @@
      title: "Recording of class session"
      url:   "https://alaska.zoom.us/rec/share/TNj8K0QAK1mYV0QkkhM085lwb33IlRAQZBh4KpW1CeRmz0xwUQ3sC0Z92V1WxI1b.FpLdDOvnRYcxhlEB"
     -
+     title: "Code from class"
+     url:   "assets/code/while_turtles.cpp"
+    -
      title: "PPP C++ §4: Computation"
      url:   "https://www.oreilly.com/library/view/programming-principles-and/9780133796759/"
      pages: "89-125"
