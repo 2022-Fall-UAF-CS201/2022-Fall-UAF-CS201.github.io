@@ -2,6 +2,8 @@
 layout: print
 ---
 
+# CS 201 - Fall 2022
+
 {% include_relative course/description.md %}
 
 {% include_relative course/prereqs.md %}
