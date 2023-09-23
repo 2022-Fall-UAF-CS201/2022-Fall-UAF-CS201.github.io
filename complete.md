@@ -1,3 +1,7 @@
+---
+layout: print
+---
+
 {% include_relative course/description.md %}
 
 {% include_relative course/prereqs.md %}
